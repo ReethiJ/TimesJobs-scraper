@@ -1,0 +1,834 @@
+
+Key Skills
+statistic modelling 
+cluster analysis 
+mathematics 
+R 
+Python 
+Machine Learning 
+
+Key Skills
+Develop the Data Infrastructure
+engineering 
+quality 
+data aggregation 
+streaming data analytics 
+
+Key Skills
+SQL 
+NoSQL 
+Hive 
+MySQL 
+Mongo 
+Cassandra 
+Hadoop 
+Data pipelines 
+
+Key Skills
+Predictive modelling 
+Algorithms & data structures 
+Python 
+Natural Language Processing 
+Neural Networks 
+
+Key Skills
+Java 
+c ++ 
+MySQL 
+developing complex machine 
+
+Key Skills
+collection 
+Data Scientist
+Mining 
+
+Key Skills
+Analytics 
+Data Scientist
+Hbase 
+Mining 
+NOSQL 
+
+Key Skills
+SQL 
+data scientist / analyst 
+analyzing multivariate tests 
+
+Key Skills
+analysis & modelling 
+frameworks 
+Data Scientists
+
+Key Skills
+R 
+Python 
+Data Scientist
+Hadoop 
+SQL 
+MATLAB 
+
+Key Skills
+SAS 
+R 
+Python 
+SQL 
+Data Scientist
+Mahout 
+Matlab 
+
+Key Skills
+Statistical Modeling 
+Predictive analytics 
+data scientists
+build algorithms 
+R / Python 
+
+Key Skills
+Machine Learning Algos 
+Analytical and statistical skills
+Data Scientist
+
+Key Skills
+machine learning techniques 
+Data Scientist
+SAS programming 
+Predictive modeling 
+
+Key Skills
+Data Scientist
+Bayesian statistics 
+predictive modeling 
+Machine learning techniques 
+
+Key Skills
+SQL 
+analyzing multivariate tests 
+data scientist / analysis 
+data intelligence 
+
+Key Skills
+R 
+Python 
+Pig 
+Hive 
+Matlab 
+Data Scientist
+Java 
+
+Key Skills
+Data Scientist
+SAS 
+R 
+Matlab 
+Statistical modeling 
+Text Mining 
+
+Key Skills
+cutting edge research organization 
+Data Scientist
+Operations Research 
+Strong track record of publications
+
+Key Skills
+Data Scientist
+Hive / Hadoop 
+Python 
+Java 
+c ++ 
+
+Business Objects 
+SPSS 
+SAS 
+Scipy 
+Data Integrator 
+
+Key Skills
+Data Scientist
+R 
+Mahout 
+Matlab 
+SQL 
+Spark SQL 
+Spark streaming 
+MLlib 
+SAS 
+Python 
+
+Key Skills
+Data Scientist
+Education 
+Hadoop 
+Hbase 
+HTTP 
+JUnit 
+Mining 
+MYSQL 
+NOSQL 
+object 
+Object Oriented 
+object oriented programming 
+package 
+Relational Databases 
+
+Key Skills
+c ++ 
+Java 
+Ruby 
+NoSQL 
+SQL 
+Scala 
+C 
+
+Key Skills
+Java 
+C / c ++ 
+SQL 
+SQL 
+SAS 
+JMP 
+Python 
+Anaconda 
+HADOOP 
+Tableau 
+data-driven prognostics 
+Data Mining 
+
+Key Skills
+solve critical business problems 
+Prototyping new ways to visualize
+understand data relationships 
+Developing algorithms and predictive models 
+
+Key Skills
+A98 Platform 
+SQL Server 
+ARIS Business Architect 
+ARIS Business Designer 
+Atg framework 
+Automation Framework 
+automation test framework 
+big data 
+Build id: Release 
+Build Management 
+Business Informatics 
+Business object 
+Business Objects 
+Business suite 
+Cake Framework 
+clustering 
+cmmi dev framework 
+Cyber Life 
+domain name system 
+E Commerce 
+Entity Framework 
+Map Making 
+Microsoft SQL 
+MS SQL 
+Ms Sql Server 
+MS-SQL 
+MS-SQL Admin 
+MS-SQL Administrator 
+MVC Framework 
+MY SQL 
+
+Key Skills
+Java 
+c ++ 
+Perl 
+Python 
+R 
+software development 
+
+Key Skills
+data analytics 
+big data systems 
+Performance engineering 
+
+Key Skills
+Java 
+c ++ 
+MySQL 
+Unix 
+data structure 
+modeling 
+
+Key Skills
+Data Mining 
+Data Modeling 
+quality of data
+strong programming
+Statistics 
+Algorithms / Data Analysis 
+
+Key Skills
+Java 
+c ++ 
+Linux 
+MySQL 
+
+Key Skills
+Java 
+c ++ 
+Python 
+Pig 
+Hive 
+SQL 
+Hadoop 
+Javascript 
+jQuery 
+Tableau 
+
+Key Skills
+Big Data platforms 
+c ++ 
+Java 
+R 
+Python 
+SQL 
+
+Key Skills
+Python 
+Text Mining 
+Deep Learning 
+BigData 
+NLP 
+Machine Learning 
+
+Key Skills
+Good scripting
+data visualization tools 
+Good applied statistics skills
+data collection procedures 
+understanding of web markup
+Python 
+mySQL 
+
+Key Skills
+Big Data platform 
+advanced algorithms 
+Hadoop 
+distributed computing 
+cloud computing 
+strong in programming
+
+Key Skills
+Ruby 
+Python 
+series analysis 
+cluster analysis 
+Bayesian modeling 
+Java 
+
+Key Skills
+Hadoop 
+SQL 
+Hive 
+HBase 
+Natural Language Processing 
+
+Key Skills
+data analysis 
+Identifying emerging trends 
+machine learning 
+large data set 
+automated processes 
+providing business understanding 
+
+Key Skills
+python 
+data warehousing 
+business intelligence projects 
+data analysis 
+Java 
+
+Key Skills
+Design and run both 
+observational data 
+implement algorithms 
+optimization models 
+Software Engineers 
+implement algorithms in production
+
+Key Skills
+analysis tool 
+R 
+SAS 
+Matlab 
+scripting language 
+Python 
+Python 
+Hadoop 
+big data tools 
+MapReduce 
+
+Key Skills
+computing 
+data warehouse 
+data mining 
+business analytics and software development 
+handle significant complexity 
+HDFS and NoSQL databases 
+
+Key Skills
+business domain experts 
+statistical techniques 
+data management 
+SQL skill 
+Developing analysis 
+
+Key Skills
+Java 
+C 
+c ++ 
+Python 
+SAS 
+R 
+Hadoop 
+
+Key Skills
+hadoop 
+SQL databases 
+python 
+Machine Learning 
+A / B testing
+Hive 
+
+Key Skills
+build Quiklo Credit Score Model 
+dealing with very granular data
+Ability to use analytics to drive key success metrics
+
+Key Skills
+ML and AI techniques 
+data structures 
+data visualization tools 
+data mining 
+
+Key Skills
+Python 
+data warehouse 
+Spark 
+test design 
+R programming skills
+
+Key Skills
+Data Analytics 
+Data Science 
+Business Intelligence 
+
+Key Skills
+statistic modelling 
+cluster analysis 
+mathematics 
+R 
+Python 
+Machine Learning 
+
+Key Skills
+Develop the Data Infrastructure
+engineering 
+quality 
+data aggregation 
+streaming data analytics 
+
+Key Skills
+SQL 
+NoSQL 
+Hive 
+MySQL 
+Mongo 
+Cassandra 
+Hadoop 
+Data pipelines 
+
+Key Skills
+Predictive modelling 
+Algorithms & data structures 
+Python 
+Natural Language Processing 
+Neural Networks 
+
+Key Skills
+Java 
+c ++ 
+MySQL 
+developing complex machine 
+
+Key Skills
+collection 
+Data Scientist
+Mining 
+
+Key Skills
+Analytics 
+Data Scientist
+Hbase 
+Mining 
+NOSQL 
+
+Key Skills
+SQL 
+data scientist / analyst 
+analyzing multivariate tests 
+
+Key Skills
+analysis & modelling 
+frameworks 
+Data Scientists
+
+Key Skills
+R 
+Python 
+Data Scientist
+Hadoop 
+SQL 
+MATLAB 
+
+Key Skills
+SAS 
+R 
+Python 
+SQL 
+Data Scientist
+Mahout 
+Matlab 
+
+Key Skills
+Statistical Modeling 
+Predictive analytics 
+data scientists
+build algorithms 
+R / Python 
+
+Key Skills
+Machine Learning Algos 
+Analytical and statistical skills
+Data Scientist
+
+Key Skills
+machine learning techniques 
+Data Scientist
+SAS programming 
+Predictive modeling 
+
+Key Skills
+Data Scientist
+Bayesian statistics 
+predictive modeling 
+Machine learning techniques 
+
+Key Skills
+SQL 
+analyzing multivariate tests 
+data scientist / analysis 
+data intelligence 
+
+Key Skills
+R 
+Python 
+Pig 
+Hive 
+Matlab 
+Data Scientist
+Java 
+
+Key Skills
+Data Scientist
+SAS 
+R 
+Matlab 
+Statistical modeling 
+Text Mining 
+
+Key Skills
+cutting edge research organization 
+Data Scientist
+Operations Research 
+Strong track record of publications
+
+Key Skills
+Data Scientist
+Hive / Hadoop 
+Python 
+Java 
+c ++ 
+
+Business Objects 
+SPSS 
+SAS 
+Scipy 
+Data Integrator 
+
+Key Skills
+Data Scientist
+R 
+Mahout 
+Matlab 
+SQL 
+Spark SQL 
+Spark streaming 
+MLlib 
+SAS 
+Python 
+
+Key Skills
+Data Scientist
+Education 
+Hadoop 
+Hbase 
+HTTP 
+JUnit 
+Mining 
+MYSQL 
+NOSQL 
+object 
+Object Oriented 
+object oriented programming 
+package 
+Relational Databases 
+
+Key Skills
+c ++ 
+Java 
+Ruby 
+NoSQL 
+SQL 
+Scala 
+C 
+
+Key Skills
+Java 
+C / c ++ 
+SQL 
+SQL 
+SAS 
+JMP 
+Python 
+Anaconda 
+HADOOP 
+Tableau 
+data-driven prognostics 
+Data Mining 
+
+Key Skills
+solve critical business problems 
+Prototyping new ways to visualize
+understand data relationships 
+Developing algorithms and predictive models 
+
+Key Skills
+A98 Platform 
+SQL Server 
+ARIS Business Architect 
+ARIS Business Designer 
+Atg framework 
+Automation Framework 
+automation test framework 
+big data 
+Build id: Release 
+Build Management 
+Business Informatics 
+Business object 
+Business Objects 
+Business suite 
+Cake Framework 
+clustering 
+cmmi dev framework 
+Cyber Life 
+domain name system 
+E Commerce 
+Entity Framework 
+Map Making 
+Microsoft SQL 
+MS SQL 
+Ms Sql Server 
+MS-SQL 
+MS-SQL Admin 
+MS-SQL Administrator 
+MVC Framework 
+MY SQL 
+
+Key Skills
+Java 
+c ++ 
+Perl 
+Python 
+R 
+software development 
+
+Key Skills
+data analytics 
+big data systems 
+Performance engineering 
+
+Key Skills
+Java 
+c ++ 
+MySQL 
+Unix 
+data structure 
+modeling 
+
+Key Skills
+Data Mining 
+Data Modeling 
+quality of data
+strong programming
+Statistics 
+Algorithms / Data Analysis 
+
+Key Skills
+Java 
+c ++ 
+Linux 
+MySQL 
+
+Key Skills
+Java 
+c ++ 
+Python 
+Pig 
+Hive 
+SQL 
+Hadoop 
+Javascript 
+jQuery 
+Tableau 
+
+Key Skills
+Big Data platforms 
+c ++ 
+Java 
+R 
+Python 
+SQL 
+
+Key Skills
+Python 
+Text Mining 
+Deep Learning 
+BigData 
+NLP 
+Machine Learning 
+
+Key Skills
+Good scripting
+data visualization tools 
+Good applied statistics skills
+data collection procedures 
+understanding of web markup
+Python 
+mySQL 
+
+Key Skills
+Big Data platform 
+advanced algorithms 
+Hadoop 
+distributed computing 
+cloud computing 
+strong in programming
+
+Key Skills
+Ruby 
+Python 
+series analysis 
+cluster analysis 
+Bayesian modeling 
+Java 
+
+Key Skills
+Hadoop 
+SQL 
+Hive 
+HBase 
+Natural Language Processing 
+
+Key Skills
+data analysis 
+Identifying emerging trends 
+machine learning 
+large data set 
+automated processes 
+providing business understanding 
+
+Key Skills
+python 
+data warehousing 
+business intelligence projects 
+data analysis 
+Java 
+
+Key Skills
+analysis tool 
+R 
+SAS 
+Matlab 
+scripting language 
+Python 
+Python 
+Hadoop 
+big data tools 
+MapReduce 
+
+Key Skills
+Design and run both 
+observational data 
+implement algorithms 
+optimization models 
+Software Engineers 
+implement algorithms in production
+
+Key Skills
+computing 
+data warehouse 
+data mining 
+business analytics and software development 
+handle significant complexity 
+HDFS and NoSQL databases 
+
+Key Skills
+business domain experts 
+statistical techniques 
+data management 
+SQL skill 
+Developing analysis 
+
+Key Skills
+Java 
+C 
+c ++ 
+Python 
+SAS 
+R 
+Hadoop 
+
+Key Skills
+hadoop 
+SQL databases 
+python 
+Machine Learning 
+A / B testing
+Hive 
+
+Key Skills
+build Quiklo Credit Score Model 
+dealing with very granular data
+Ability to use analytics to drive key success metrics
+
+Key Skills
+ML and AI techniques 
+data structures 
+data visualization tools 
+data mining 
+
+Key Skills
+Python 
+data warehouse 
+Spark 
+test design 
+R programming skills
+
+Key Skills
+Data Analytics 
+Data Science 
+Business Intelligence 
